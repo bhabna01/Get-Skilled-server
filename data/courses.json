@@ -2,28 +2,28 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
         "category_id": "01",
-        "title": "Get started with Datatypes",
+        "title": "Get started with Datatypes in C",
         "image_url": "https://3l267h1z64ep1espa2kjutz1-wpengine.netdna-ssl.com/wp-content/uploads/Data-Types.jpg",
         "details": "In computer science and computer programming, a data type (or simply type) is a set of possible values and a set of allowed operations on it. A data type tells the compiler or interpreter how the programmer intends to use the data. Most programming languages support basic data types of integer numbers (of varying sizes), floating-point numbers (which approximate real numbers), characters and Booleans. A data type constrains the possible values that an expression, such as a variable or a function, might take. This data type defines the operations that can be done on the data, the meaning of the data, and the way values of that type can be stored."
     },
     {
         "_id": "11468ed61aee84de492a8b04158a22f0",
         "category_id": "01",
-        "title": "Introduction to Algorithm",
+        "title": "Introduction to Algorithm in C",
         "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/04/Types-of-Algorithms.jpg",
         "details": "In mathematics and computer science, an algorithm  is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation.Algorithms are used as specifications for performing calculations and data processing. More advanced algorithms can perform automated deductions (referred to as automated reasoning) and use mathematical and logical tests to divert the code execution through various routes (referred to as automated decision-making). Using human characteristics as descriptors of machines in metaphorical ways was already practiced by Alan Turing with terms such as memory, search and stimulus."
     },
     {
         "_id": "374df11ae3d9b8b9ce21f4dc53f59b85",
         "category_id": "01",
-        "title": "Introduction to Data Structure",
+        "title": "Introduction to Data Structure in C",
         "image_url": "https://miro.medium.com/max/1200/1*KpDOKMFAgDWaGTQHL0r70g.png",
         "details": "A data structure is a specialized format for organizing, processing, retrieving and storing data. There are several basic and advanced types of data structures, all designed to arrange data to suit a specific purpose. Data structures make it easy for users to access and work with the data they need in appropriate ways."
     },
     {
         "_id": "be44c843d61859cc0b87cae85c55f9db",
         "category_id": "01",
-        "title": "Introduction to Array",
+        "title": "Introduction to Array in C",
         "image_url": "https://arraynow.com/wp-content/uploads/2022/04/Social-Share.jpg",
         "details": "An array is a collection of items of same data type stored at contiguous memory locations.This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array (generally denoted by the name of the array). The base value is index 0 and the difference between the two indexes is the offset."
     },
@@ -37,49 +37,49 @@
     {
         "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
         "category_id": "02",
-        "title": "Get started with Datatypes",
+        "title": "Get started with Datatypes in C++",
         "image_url": "https://3l267h1z64ep1espa2kjutz1-wpengine.netdna-ssl.com/wp-content/uploads/Data-Types.jpg",
         "details": "In computer science and computer programming, a data type (or simply type) is a set of possible values and a set of allowed operations on it. A data type tells the compiler or interpreter how the programmer intends to use the data. Most programming languages support basic data types of integer numbers (of varying sizes), floating-point numbers (which approximate real numbers), characters and Booleans. A data type constrains the possible values that an expression, such as a variable or a function, might take. This data type defines the operations that can be done on the data, the meaning of the data, and the way values of that type can be stored."
     },
     {
         "_id": "f69a695f037cd9484cecaea37ca71012",
         "category_id": "02",
-        "title": "Introduction to Data Structure",
+        "title": "Introduction to Data Structure in C++",
         "image_url": "https://miro.medium.com/max/1200/1*KpDOKMFAgDWaGTQHL0r70g.png",
         "details": "A data structure is a specialized format for organizing, processing, retrieving and storing data. There are several basic and advanced types of data structures, all designed to arrange data to suit a specific purpose. Data structures make it easy for users to access and work with the data they need in appropriate ways."
     },
     {
         "_id": "cd2b53655737cc4077542baea9f8f75d",
         "category_id": "02",
-        "title": "Introduction to Array",
+        "title": "Introduction to Array in C++",
         "image_url": "https://arraynow.com/wp-content/uploads/2022/04/Social-Share.jpg",
         "details": "An array is a collection of items of same data type stored at contiguous memory locations.This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array (generally denoted by the name of the array). The base value is index 0 and the difference between the two indexes is the offset."
     },
     {
         "_id": "df11ff9feefc37613cc3a4486ce02151",
         "category_id": "02",
-        "title": "Introduction to Algorithm",
+        "title": "Introduction to Algorithm in C++",
         "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/04/Types-of-Algorithms.jpg",
         "details": "In mathematics and computer science, an algorithm  is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation.Algorithms are used as specifications for performing calculations and data processing. More advanced algorithms can perform automated deductions (referred to as automated reasoning) and use mathematical and logical tests to divert the code execution through various routes (referred to as automated decision-making). Using human characteristics as descriptors of machines in metaphorical ways was already practiced by Alan Turing with terms such as memory, search and stimulus."
     },
     {
         "_id": "11468ed61aee84de492a8b04158a22f9",
         "category_id": "03",
-        "title": "Introduction to Array",
+        "title": "Introduction to Array C#",
         "image_url": "https://arraynow.com/wp-content/uploads/2022/04/Social-Share.jpg",
         "details": "An array is a collection of items of same data type stored at contiguous memory locations.This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array (generally denoted by the name of the array). The base value is index 0 and the difference between the two indexes is the offset."
     },
     {
         "_id": "a713ee936ff5574273f0f769f5c5b20e",
         "category_id": "03",
-        "title": "Introduction to Algorithm",
+        "title": "Introduction to Algorithm in C#",
         "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/04/Types-of-Algorithms.jpg",
         "details": "In mathematics and computer science, an algorithm  is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation.Algorithms are used as specifications for performing calculations and data processing. More advanced algorithms can perform automated deductions (referred to as automated reasoning) and use mathematical and logical tests to divert the code execution through various routes (referred to as automated decision-making). Using human characteristics as descriptors of machines in metaphorical ways was already practiced by Alan Turing with terms such as memory, search and stimulus."
     },
     {
         "_id": "acb9b6785b62698fc6130db7615965e1",
         "category_id": "03",
-        "title": "Get started with Datatypes",
+        "title": "Get started with Datatypes in C#",
         "image_url": "https://3l267h1z64ep1espa2kjutz1-wpengine.netdna-ssl.com/wp-content/uploads/Data-Types.jpg",
         "details": "In computer science and computer programming, a data type (or simply type) is a set of possible values and a set of allowed operations on it. A data type tells the compiler or interpreter how the programmer intends to use the data. Most programming languages support basic data types of integer numbers (of varying sizes), floating-point numbers (which approximate real numbers), characters and Booleans. A data type constrains the possible values that an expression, such as a variable or a function, might take. This data type defines the operations that can be done on the data, the meaning of the data, and the way values of that type can be stored."
     },
@@ -93,21 +93,21 @@
     {
         "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
         "category_id": "04",
-        "title": "Get started with Datatypes",
+        "title": "Get started with Datatypes in Python",
         "image_url": "https://3l267h1z64ep1espa2kjutz1-wpengine.netdna-ssl.com/wp-content/uploads/Data-Types.jpg",
         "details": "In computer science and computer programming, a data type (or simply type) is a set of possible values and a set of allowed operations on it. A data type tells the compiler or interpreter how the programmer intends to use the data. Most programming languages support basic data types of integer numbers (of varying sizes), floating-point numbers (which approximate real numbers), characters and Booleans. A data type constrains the possible values that an expression, such as a variable or a function, might take. This data type defines the operations that can be done on the data, the meaning of the data, and the way values of that type can be stored."
     },
     {
         "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
         "category_id": "04",
-        "title": "Introduction to Algorithm",
+        "title": "Introduction to Algorithm in Python",
         "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/04/Types-of-Algorithms.jpg",
         "details": "In mathematics and computer science, an algorithm  is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation.Algorithms are used as specifications for performing calculations and data processing. More advanced algorithms can perform automated deductions (referred to as automated reasoning) and use mathematical and logical tests to divert the code execution through various routes (referred to as automated decision-making). Using human characteristics as descriptors of machines in metaphorical ways was already practiced by Alan Turing with terms such as memory, search and stimulus."
     },
     {
         "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
         "category_id": "04",
-        "title": "Introduction to Array",
+        "title": "Introduction to Array in Python",
         "image_url": "https://arraynow.com/wp-content/uploads/2022/04/Social-Share.jpg",
         "details": "An array is a collection of items of same data type stored at contiguous memory locations.This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array (generally denoted by the name of the array). The base value is index 0 and the difference between the two indexes is the offset."
     },
