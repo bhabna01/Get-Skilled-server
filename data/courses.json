@@ -4,153 +4,175 @@
         "category_id": "01",
         "title": "Get started with Datatypes in C",
         "image_url": "https://3l267h1z64ep1espa2kjutz1-wpengine.netdna-ssl.com/wp-content/uploads/Data-Types.jpg",
-        "details": "In computer science and computer programming, a data type (or simply type) is a set of possible values and a set of allowed operations on it. A data type tells the compiler or interpreter how the programmer intends to use the data. Most programming languages support basic data types of integer numbers (of varying sizes), floating-point numbers (which approximate real numbers), characters and Booleans. A data type constrains the possible values that an expression, such as a variable or a function, might take. This data type defines the operations that can be done on the data, the meaning of the data, and the way values of that type can be stored."
+        "details": "In computer science and computer programming, a data type (or simply type) is a set of possible values and a set of allowed operations on it. A data type tells the compiler or interpreter how the programmer intends to use the data. Most programming languages support basic data types of integer numbers (of varying sizes), floating-point numbers (which approximate real numbers), characters and Booleans. A data type constrains the possible values that an expression, such as a variable or a function, might take. This data type defines the operations that can be done on the data, the meaning of the data, and the way values of that type can be stored.",
+        "price": "$30"
     },
     {
         "_id": "11468ed61aee84de492a8b04158a22f0",
         "category_id": "01",
         "title": "Introduction to Algorithm in C",
         "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/04/Types-of-Algorithms.jpg",
-        "details": "In mathematics and computer science, an algorithm  is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation.Algorithms are used as specifications for performing calculations and data processing. More advanced algorithms can perform automated deductions (referred to as automated reasoning) and use mathematical and logical tests to divert the code execution through various routes (referred to as automated decision-making). Using human characteristics as descriptors of machines in metaphorical ways was already practiced by Alan Turing with terms such as memory, search and stimulus."
+        "details": "In mathematics and computer science, an algorithm  is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation.Algorithms are used as specifications for performing calculations and data processing. More advanced algorithms can perform automated deductions (referred to as automated reasoning) and use mathematical and logical tests to divert the code execution through various routes (referred to as automated decision-making). Using human characteristics as descriptors of machines in metaphorical ways was already practiced by Alan Turing with terms such as memory, search and stimulus.",
+        "price": "$20"
     },
     {
         "_id": "374df11ae3d9b8b9ce21f4dc53f59b85",
         "category_id": "01",
         "title": "Introduction to Data Structure in C",
         "image_url": "https://miro.medium.com/max/1200/1*KpDOKMFAgDWaGTQHL0r70g.png",
-        "details": "A data structure is a specialized format for organizing, processing, retrieving and storing data. There are several basic and advanced types of data structures, all designed to arrange data to suit a specific purpose. Data structures make it easy for users to access and work with the data they need in appropriate ways."
+        "details": "A data structure is a specialized format for organizing, processing, retrieving and storing data. There are several basic and advanced types of data structures, all designed to arrange data to suit a specific purpose. Data structures make it easy for users to access and work with the data they need in appropriate ways.",
+        "price": "$10"
     },
     {
         "_id": "be44c843d61859cc0b87cae85c55f9db",
         "category_id": "01",
         "title": "Introduction to Array in C",
         "image_url": "https://arraynow.com/wp-content/uploads/2022/04/Social-Share.jpg",
-        "details": "An array is a collection of items of same data type stored at contiguous memory locations.This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array (generally denoted by the name of the array). The base value is index 0 and the difference between the two indexes is the offset."
+        "details": "An array is a collection of items of same data type stored at contiguous memory locations.This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array (generally denoted by the name of the array). The base value is index 0 and the difference between the two indexes is the offset.",
+        "price": "$60"
     },
     {
         "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
         "category_id": "01",
         "title": "Indroduction to Dynamic Programming",
         "image_url": "https://i.ytimg.com/vi/aPQY__2H3tE/maxresdefault.jpg",
-        "details": "Dynamic Programming is mainly an optimization over plain recursion. Wherever we see a recursive solution that has repeated calls for same inputs, we can optimize it using Dynamic Programming. The idea is to simply store the results of subproblems, so that we do not have to re-compute them when needed later. This simple optimization reduces time complexities from exponential to polynomial."
+        "details": "Dynamic Programming is mainly an optimization over plain recursion. Wherever we see a recursive solution that has repeated calls for same inputs, we can optimize it using Dynamic Programming. The idea is to simply store the results of subproblems, so that we do not have to re-compute them when needed later. This simple optimization reduces time complexities from exponential to polynomial.",
+        "price": "$30"
     },
     {
         "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
         "category_id": "02",
         "title": "Get started with Datatypes in C++",
         "image_url": "https://3l267h1z64ep1espa2kjutz1-wpengine.netdna-ssl.com/wp-content/uploads/Data-Types.jpg",
-        "details": "In computer science and computer programming, a data type (or simply type) is a set of possible values and a set of allowed operations on it. A data type tells the compiler or interpreter how the programmer intends to use the data. Most programming languages support basic data types of integer numbers (of varying sizes), floating-point numbers (which approximate real numbers), characters and Booleans. A data type constrains the possible values that an expression, such as a variable or a function, might take. This data type defines the operations that can be done on the data, the meaning of the data, and the way values of that type can be stored."
+        "details": "In computer science and computer programming, a data type (or simply type) is a set of possible values and a set of allowed operations on it. A data type tells the compiler or interpreter how the programmer intends to use the data. Most programming languages support basic data types of integer numbers (of varying sizes), floating-point numbers (which approximate real numbers), characters and Booleans. A data type constrains the possible values that an expression, such as a variable or a function, might take. This data type defines the operations that can be done on the data, the meaning of the data, and the way values of that type can be stored.",
+        "price": "$20"
     },
     {
         "_id": "f69a695f037cd9484cecaea37ca71012",
         "category_id": "02",
         "title": "Introduction to Data Structure in C++",
         "image_url": "https://miro.medium.com/max/1200/1*KpDOKMFAgDWaGTQHL0r70g.png",
-        "details": "A data structure is a specialized format for organizing, processing, retrieving and storing data. There are several basic and advanced types of data structures, all designed to arrange data to suit a specific purpose. Data structures make it easy for users to access and work with the data they need in appropriate ways."
+        "details": "A data structure is a specialized format for organizing, processing, retrieving and storing data. There are several basic and advanced types of data structures, all designed to arrange data to suit a specific purpose. Data structures make it easy for users to access and work with the data they need in appropriate ways.",
+        "price": "$10"
     },
     {
         "_id": "cd2b53655737cc4077542baea9f8f75d",
         "category_id": "02",
         "title": "Introduction to Array in C++",
         "image_url": "https://arraynow.com/wp-content/uploads/2022/04/Social-Share.jpg",
-        "details": "An array is a collection of items of same data type stored at contiguous memory locations.This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array (generally denoted by the name of the array). The base value is index 0 and the difference between the two indexes is the offset."
+        "details": "An array is a collection of items of same data type stored at contiguous memory locations.This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array (generally denoted by the name of the array). The base value is index 0 and the difference between the two indexes is the offset.",
+        "price": "$40"
     },
     {
         "_id": "df11ff9feefc37613cc3a4486ce02151",
         "category_id": "02",
         "title": "Introduction to Algorithm in C++",
         "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/04/Types-of-Algorithms.jpg",
-        "details": "In mathematics and computer science, an algorithm  is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation.Algorithms are used as specifications for performing calculations and data processing. More advanced algorithms can perform automated deductions (referred to as automated reasoning) and use mathematical and logical tests to divert the code execution through various routes (referred to as automated decision-making). Using human characteristics as descriptors of machines in metaphorical ways was already practiced by Alan Turing with terms such as memory, search and stimulus."
+        "details": "In mathematics and computer science, an algorithm  is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation.Algorithms are used as specifications for performing calculations and data processing. More advanced algorithms can perform automated deductions (referred to as automated reasoning) and use mathematical and logical tests to divert the code execution through various routes (referred to as automated decision-making). Using human characteristics as descriptors of machines in metaphorical ways was already practiced by Alan Turing with terms such as memory, search and stimulus.",
+        "price": "$70"
     },
     {
         "_id": "11468ed61aee84de492a8b04158a22f9",
         "category_id": "03",
         "title": "Introduction to Array C#",
         "image_url": "https://arraynow.com/wp-content/uploads/2022/04/Social-Share.jpg",
-        "details": "An array is a collection of items of same data type stored at contiguous memory locations.This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array (generally denoted by the name of the array). The base value is index 0 and the difference between the two indexes is the offset."
+        "details": "An array is a collection of items of same data type stored at contiguous memory locations.This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array (generally denoted by the name of the array). The base value is index 0 and the difference between the two indexes is the offset.",
+        "price": "$40"
     },
     {
         "_id": "a713ee936ff5574273f0f769f5c5b20e",
         "category_id": "03",
         "title": "Introduction to Algorithm in C#",
         "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/04/Types-of-Algorithms.jpg",
-        "details": "In mathematics and computer science, an algorithm  is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation.Algorithms are used as specifications for performing calculations and data processing. More advanced algorithms can perform automated deductions (referred to as automated reasoning) and use mathematical and logical tests to divert the code execution through various routes (referred to as automated decision-making). Using human characteristics as descriptors of machines in metaphorical ways was already practiced by Alan Turing with terms such as memory, search and stimulus."
+        "details": "In mathematics and computer science, an algorithm  is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation.Algorithms are used as specifications for performing calculations and data processing. More advanced algorithms can perform automated deductions (referred to as automated reasoning) and use mathematical and logical tests to divert the code execution through various routes (referred to as automated decision-making). Using human characteristics as descriptors of machines in metaphorical ways was already practiced by Alan Turing with terms such as memory, search and stimulus.",
+        "price": "$30"
     },
     {
         "_id": "acb9b6785b62698fc6130db7615965e1",
         "category_id": "03",
         "title": "Get started with Datatypes in C#",
         "image_url": "https://3l267h1z64ep1espa2kjutz1-wpengine.netdna-ssl.com/wp-content/uploads/Data-Types.jpg",
-        "details": "In computer science and computer programming, a data type (or simply type) is a set of possible values and a set of allowed operations on it. A data type tells the compiler or interpreter how the programmer intends to use the data. Most programming languages support basic data types of integer numbers (of varying sizes), floating-point numbers (which approximate real numbers), characters and Booleans. A data type constrains the possible values that an expression, such as a variable or a function, might take. This data type defines the operations that can be done on the data, the meaning of the data, and the way values of that type can be stored."
+        "details": "In computer science and computer programming, a data type (or simply type) is a set of possible values and a set of allowed operations on it. A data type tells the compiler or interpreter how the programmer intends to use the data. Most programming languages support basic data types of integer numbers (of varying sizes), floating-point numbers (which approximate real numbers), characters and Booleans. A data type constrains the possible values that an expression, such as a variable or a function, might take. This data type defines the operations that can be done on the data, the meaning of the data, and the way values of that type can be stored.",
+        "price": "$10"
     },
     {
         "_id": "f69a695f037cd9484cecaea37ca71011",
         "category_id": "04",
         "title": "Python Strings",
         "image_url": "https://www.dataquest.io/wp-content/uploads/2022/04/python-strings.png",
-        "details": "Strings are amongst the most popular types in Python. We can create them simply by enclosing characters in quotes. Python treats single quotes the same as double quotes.Python does not support a character type; these are treated as strings of length one, thus also considered a substring."
+        "details": "Strings are amongst the most popular types in Python. We can create them simply by enclosing characters in quotes. Python treats single quotes the same as double quotes.Python does not support a character type; these are treated as strings of length one, thus also considered a substring.",
+        "price": "$10"
     },
     {
         "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
         "category_id": "04",
         "title": "Get started with Datatypes in Python",
         "image_url": "https://3l267h1z64ep1espa2kjutz1-wpengine.netdna-ssl.com/wp-content/uploads/Data-Types.jpg",
-        "details": "In computer science and computer programming, a data type (or simply type) is a set of possible values and a set of allowed operations on it. A data type tells the compiler or interpreter how the programmer intends to use the data. Most programming languages support basic data types of integer numbers (of varying sizes), floating-point numbers (which approximate real numbers), characters and Booleans. A data type constrains the possible values that an expression, such as a variable or a function, might take. This data type defines the operations that can be done on the data, the meaning of the data, and the way values of that type can be stored."
+        "details": "In computer science and computer programming, a data type (or simply type) is a set of possible values and a set of allowed operations on it. A data type tells the compiler or interpreter how the programmer intends to use the data. Most programming languages support basic data types of integer numbers (of varying sizes), floating-point numbers (which approximate real numbers), characters and Booleans. A data type constrains the possible values that an expression, such as a variable or a function, might take. This data type defines the operations that can be done on the data, the meaning of the data, and the way values of that type can be stored.",
+        "price": "$50"
     },
     {
         "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
         "category_id": "04",
         "title": "Introduction to Algorithm in Python",
         "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/04/Types-of-Algorithms.jpg",
-        "details": "In mathematics and computer science, an algorithm  is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation.Algorithms are used as specifications for performing calculations and data processing. More advanced algorithms can perform automated deductions (referred to as automated reasoning) and use mathematical and logical tests to divert the code execution through various routes (referred to as automated decision-making). Using human characteristics as descriptors of machines in metaphorical ways was already practiced by Alan Turing with terms such as memory, search and stimulus."
+        "details": "In mathematics and computer science, an algorithm  is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation.Algorithms are used as specifications for performing calculations and data processing. More advanced algorithms can perform automated deductions (referred to as automated reasoning) and use mathematical and logical tests to divert the code execution through various routes (referred to as automated decision-making). Using human characteristics as descriptors of machines in metaphorical ways was already practiced by Alan Turing with terms such as memory, search and stimulus.",
+        "price": "$30"
     },
     {
         "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
         "category_id": "04",
         "title": "Introduction to Array in Python",
         "image_url": "https://arraynow.com/wp-content/uploads/2022/04/Social-Share.jpg",
-        "details": "An array is a collection of items of same data type stored at contiguous memory locations.This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array (generally denoted by the name of the array). The base value is index 0 and the difference between the two indexes is the offset."
+        "details": "An array is a collection of items of same data type stored at contiguous memory locations.This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array (generally denoted by the name of the array). The base value is index 0 and the difference between the two indexes is the offset.",
+        "price": "$10"
     },
     {
         "_id": "f06f8cc035b04bd1158e4198281915a3",
         "category_id": "05",
         "title": "Getting started with Java",
         "image_url": "https://dev.java/assets/images/java-logo-vert-blk.png",
-        "details": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let programmers write once, run anywhere (WORA),meaning that compiled Java code can run on all platforms that support Java without the need to recompile.Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture. The syntax of Java is similar to C and C++, but has fewer low-level facilities than either of them. The Java runtime provides dynamic capabilities (such as reflection and runtime code modification) that are typically not available in traditional compiled languages. As of 2019, Java was one of the most popular programming languages in use according to GitHub,particularly for client–server web applications, with a reported 9 million developers."
+        "details": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let programmers write once, run anywhere (WORA),meaning that compiled Java code can run on all platforms that support Java without the need to recompile.Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture. The syntax of Java is similar to C and C++, but has fewer low-level facilities than either of them. The Java runtime provides dynamic capabilities (such as reflection and runtime code modification) that are typically not available in traditional compiled languages. As of 2019, Java was one of the most popular programming languages in use according to GitHub,particularly for client–server web applications, with a reported 9 million developers.",
+        "price": "$10"
     },
     {
         "_id": "f06f8cc035b04bd1158e4198281915a4",
         "category_id": "05",
         "title": "Intro to OOP",
         "image_url": "https://iou.ac/wp-content/uploads/2021/07/Object-Oriented-Programming-1.png",
-        "details": "Object-oriented programming (OOP) is a programming paradigm based on the concept of objects, which can contain data and code: data in the form of fields (often known as attributes or properties), and code, in the form of procedures (often known as methods).A common feature of objects is that procedures (or methods) are attached to them and can access and modify the object's data fields. In this brand of OOP, there is usually a special name such as this or self used to refer to the current object. In OOP, computer programs are designed by making them out of objects that interact with one another. OOP languages are diverse, but the most popular ones are class-based, meaning that objects are instances of classes, which also determine their types."
+        "details": "Object-oriented programming (OOP) is a programming paradigm based on the concept of objects, which can contain data and code: data in the form of fields (often known as attributes or properties), and code, in the form of procedures (often known as methods).A common feature of objects is that procedures (or methods) are attached to them and can access and modify the object's data fields. In this brand of OOP, there is usually a special name such as this or self used to refer to the current object. In OOP, computer programs are designed by making them out of objects that interact with one another. OOP languages are diverse, but the most popular ones are class-based, meaning that objects are instances of classes, which also determine their types.",
+        "price": "$10"
     },
     {
         "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
         "category_id": "06",
         "title": "Intro to R language",
         "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2016/10/R-Programming-Language-2.jpg",
-        "details": "R is a programming language for statistical computing and graphics supported by the R Core Team and the R Foundation for Statistical Computing. Created by statisticians Ross Ihaka and Robert Gentleman, R is used among data miners, bioinformaticians and statisticians for data analysis and developing statistical software.Users have created packages to augment the functions of the R language. "
+        "details": "R is a programming language for statistical computing and graphics supported by the R Core Team and the R Foundation for Statistical Computing. Created by statisticians Ross Ihaka and Robert Gentleman, R is used among data miners, bioinformaticians and statisticians for data analysis and developing statistical software.Users have created packages to augment the functions of the R language. ",
+        "price": "$40"
     },
     {
         "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
         "category_id": "06",
         "title": "Data types in R",
         "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/11/r-data-types.png",
-        "details": "In contrast to other programming languages like C and java in R, the variables are not declared as some data type. The variables are assigned with R-Objects and the data type of the R-object becomes the data type of the variable. There are many types of R-objects. The frequently used ones are − Vectors, Lists, Matrices,Array, Factors,Data Frames"
+        "details": "In contrast to other programming languages like C and java in R, the variables are not declared as some data type. The variables are assigned with R-Objects and the data type of the R-object becomes the data type of the variable. There are many types of R-objects. The frequently used ones are − Vectors, Lists, Matrices,Array, Factors,Data Frames",
+        "price": "$10"
     },
     {
         "_id": "7f5b80c1cdd4df0111918883eae07349",
         "category_id": "07",
         "title": "Intro to TypeScript",
         "image_url": "https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png",
-        "details": "TypeScript is a free and open source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript and adds optional static typing to the language. It is designed for the development of large applications and transpiles to JavaScript.As it is a superset of JavaScript, existing JavaScript programs are also valid TypeScript programs. TypeScript may be used to develop JavaScript applications for both client-side and server-side execution (as with Node.js or Deno). Multiple options are available for transpilation. The default TypeScript Compiler can be used,or the Babel compiler can be invoked to convert TypeScript to JavaScript. "
+        "details": "TypeScript is a free and open source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript and adds optional static typing to the language. It is designed for the development of large applications and transpiles to JavaScript.As it is a superset of JavaScript, existing JavaScript programs are also valid TypeScript programs. TypeScript may be used to develop JavaScript applications for both client-side and server-side execution (as with Node.js or Deno). Multiple options are available for transpilation. The default TypeScript Compiler can be used,or the Babel compiler can be invoked to convert TypeScript to JavaScript. ",
+        "price": "$20"
     },
     {
         "_id": "1b03149c50f1bec662062d930bf46489",
         "category_id": "08",
         "title": "Intro to PHP",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png",
-        "details": "PHP is a general-purpose scripting language geared toward web development.It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993.The PHP reference implementation is now produced by The PHP Group.PHP originally stood for Personal Home Page,but it now stands for the recursive initialism PHP: Hypertext Preprocessor.[9] "
+        "details": "PHP is a general-purpose scripting language geared toward web development.It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993.The PHP reference implementation is now produced by The PHP Group.PHP originally stood for Personal Home Page,but it now stands for the recursive initialism PHP: Hypertext Preprocessor.[9] ",
+        "price": "$30"
     }
 ]
